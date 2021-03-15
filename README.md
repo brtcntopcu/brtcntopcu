@@ -23,19 +23,19 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
     </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
+    <a href="https://vuejs.org/" target="_blank"> 
         <code><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="bootstrap" width="40" height="40"/></code>  
     </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
+    <a href="https://www.selenium.dev/" target="_blank"> 
         <code><img src="https://cdn.worldvectorlogo.com/logos/selenium-logo.svg" alt="c" width="40" height="40"/> </code> 
     </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <a href="https://rest-assured.io/" target="_blank"> 
         <code><img src="https://avatars.githubusercontent.com/u/19369327?s=400&v=4" alt="cplusplus" width="40" height="40"/></code>  
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
+    <a href="https://testng.org/" target="_blank"> 
         <code><img src="https://user-images.githubusercontent.com/50115134/111023218-d4286300-83e8-11eb-80ff-4ed34e6476e4.png" alt="linux" width="40" height="40"/></code>  
     </a> 
 </p>
